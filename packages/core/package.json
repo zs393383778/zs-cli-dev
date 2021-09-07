@@ -1,0 +1,23 @@
+{
+  "name": "@cli-dev/core",
+  "version": "1.0.0",
+  "description": "cli-dev/core",
+  "author": "zhangshuang <393383778@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@imooc-cli/utils": "^1.1.1",
+    "@cli-dev/utils":"^1.0.0"
+  }
+}
