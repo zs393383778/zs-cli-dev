@@ -1,18 +1,7 @@
 {
-  "name": "@zs-cli-dev",
-  "version": "1.0.0",
-  "description": "zs-cli-dev",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "name": "root",
+  "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
-  },
-  "dependencies": {
-    "@zs-cli-dev/util":"file:./utils/util"
   }
 }
