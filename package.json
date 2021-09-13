@@ -1,7 +1,25 @@
 {
-  "name": "root",
+  "name": "zs-cli-dev",
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zs393383778/zs-cli-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zs393383778/zs-cli-dev/issues"
+  },
+  "homepage": "https://github.com/zs393383778/zs-cli-dev#readme",
+  "description": ""
 }

@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "cli-dev/core",
   "author": "zhangshuang <393383778@qq.com>",
-  "homepage": "",
+  "homepage": "https://github.com/zs393383778/zs-cli-dev#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -20,11 +20,18 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zs-cli-dev/util": "file:../../utils/util",
+    "@zs-cli-dev/util": "^1.0.1",
     "import-local": "^3.0.2",
     "npmlog": "^5.0.1"
   },
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zs393383778/zs-cli-dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zs393383778/zs-cli-dev/issues"
   }
 }
