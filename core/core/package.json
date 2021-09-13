@@ -1,7 +1,7 @@
 {
-  "name": "@cli-dev/utils",
+  "name": "@zs-cli-dev/core",
   "version": "1.0.0",
-  "description": "> TODO: description",
+  "description": "cli-dev/core",
   "author": "zhangshuang <393383778@qq.com>",
   "homepage": "",
   "license": "ISC",
@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "bin": {
+    "zs-cli-test": "bin/index.js"
+  },
   "files": [
     "lib"
   ],
@@ -17,7 +20,11 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-
+    "@zs-cli-dev/util": "file:../../utils/util",
+    "import-local": "^3.0.2",
+    "npmlog": "^5.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
-
 }
