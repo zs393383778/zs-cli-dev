@@ -4,3 +4,7 @@ node_modules
 
 packages/**/node_modules
 lerna-debug.log
+zszhang.pub
+zszhang
+cd .ssh
+cd .ssh.pub
