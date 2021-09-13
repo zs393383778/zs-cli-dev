@@ -1,6 +1,6 @@
 {
   "name": "@zs-cli-dev/util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "zhangshuang <393383778@qq.com>",
   "homepage": "",
@@ -16,11 +16,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "dependencies": {
-
-  },
   "publishConfig": {
     "access": "public"
   }
-
 }
