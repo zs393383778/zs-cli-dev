@@ -3,7 +3,7 @@
 const importLocal=require('import-local')
 
 if(importLocal(__filename)){
-  require('npmlog').info('cli','正在使用本地版本1')
+  require('npmlog').info('cli','正在使用本地版本2')
 }else{
   require('../lib')(process.argv.slice(2))
 }
