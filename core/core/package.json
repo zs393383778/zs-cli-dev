@@ -1,6 +1,6 @@
 {
   "name": "@zs-cli-dev/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "cli-dev/core",
   "author": "zszhang",
   "homepage": "https://github.com/zs393383778/zs-cli-dev#readme",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zs-cli-dev/util": "^1.0.1",
+    "@zs-cli-dev/util": "^1.0.5",
     "import-local": "^3.0.2",
     "npmlog": "^5.0.1"
   },
