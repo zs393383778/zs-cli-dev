@@ -2,7 +2,7 @@
   "name": "@zs-cli-dev/core",
   "version": "1.0.4",
   "description": "cli-dev/core",
-  "author": "zhangshuang <393383778@qq.com>",
+  "author": "zszhang",
   "homepage": "https://github.com/zs393383778/zs-cli-dev#readme",
   "license": "ISC",
   "main": "lib/index.js",

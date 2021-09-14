@@ -1,8 +1,8 @@
 {
   "name": "@zs-cli-dev/util",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "> TODO: description",
-  "author": "zhangshuang <393383778@qq.com>",
+  "author": "zszhang",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
