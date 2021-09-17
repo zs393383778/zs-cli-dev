@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "bin": {
-    "zs-cli-test": "bin/index.js"
+    "zs-cli-dev": "bin/index.js"
   },
   "files": [
     "lib"
